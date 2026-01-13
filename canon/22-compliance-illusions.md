@@ -32,6 +32,9 @@ The Canon does not support:
 
 Any claim of certified Canon compliance is invalid.
 
+Verification services may exist, but they must not claim canonical certification.
+They may report test results and evidence only, scoped to what is explicitly checkable.
+
 ---
 
 ## No Audit Theater
