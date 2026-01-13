@@ -10,6 +10,32 @@ Canonical meaning is defined only by documents listed in `canon/INDEX.md`.
 
 ---
 
+## Authority Mapping (Orientation Only)
+
+This map is non-canonical, but it must respect the repository’s authority boundaries.
+
+Authority layering (from highest to lowest):
+
+1. **Canon** (`/canon`) — defines canonical meaning and invariants.
+2. **Governance** (`/governance`, `/versions`, root policy docs) — protects Canon integrity and change control.
+3. **Derivatives** (`/derivatives`) — allowed interpretations of Canon (theory of realization, not execution).
+4. **ADRs / PRDs** — decision and requirement discipline (system-level and derivative-scoped).
+5. **Implementation repositories** (external) — executable artifacts (code, infra, runtime).
+
+Equivalence used across prior threads:
+
+- **ADR-0 == Canon**
+- **ADR-1\*** == derivative-scoped architectural decisions
+
+Directionality rule:
+
+- Canon must not depend on anything below it.
+- Everything below must explicitly reference (and remain compatible with) the Canon.
+
+For normative authority boundaries, see `governance/authority.md`.
+
+---
+
 ## Purpose of This Map
 
 The purpose of this map is to:
