@@ -74,4 +74,5 @@ Until stability is explicitly declared:
 
 Stability will be declared explicitly in this file.
 
-Silence does
+Silence does **not** imply stability.
+Completion does **not** imply finality.
