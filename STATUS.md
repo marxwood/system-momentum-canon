@@ -1,41 +1,77 @@
-# Status: Draft / Unstable
+# Status: Defined / Unstable
 
-This repository contains the **System Momentum Canon** in its formative stage.
+This repository contains the **System Momentum Canon**.
 
-The Canon is **not complete**, **not stable**, and **not ready** to be used as:
+The Canon’s **core definition for v0.1 is complete**.
+Its structure, hierarchy, terminology, axioms, constraints, and non-negotiables are defined.
 
-- an implementation reference
-- a product specification
-- a governance framework
-- a whitepaper or public manifesto
+The Canon is **defined**, but **not yet stable**.
+
+---
 
 ## Current State
 
-- Version: v0.1 (in progress)
+- Version: **v0.1**
+- Definition: **Complete**
 - Stability: **Unstable**
-- Change frequency: **High**
-- Authority: **Single-author canonical control**
+- Change frequency: **Medium**
+- Authority: **Single-custodian canonical control**
 - Intended audience: **System architects and agents operating under explicit constraint**
+
+---
+
+## What Is Complete in v0.1
+
+The following elements are complete and binding for v0.1:
+
+- Canonical hierarchy
+- Scope and non-goals
+- Definitions
+- Axioms
+- Constraints
+- Non-negotiables
+- Authority model
+
+Together, these define the **canonical core**.
+
+---
+
+## What Is Not Complete
+
+The following are explicitly **out of scope for v0.1**:
+
+- Stability guarantees
+- Institutional governance beyond authority definition
+- Change cadence or release policy
+- Formal compliance mechanisms
+- Derivative specifications or implementations
+
+Absence of these elements does **not** weaken canonical validity.
+
+---
 
 ## Usage Restrictions
 
-Until an explicit stability declaration is made:
+Until stability is explicitly declared:
 
-- The Canon **MUST NOT** be treated as normative guidance for implementations.
-- The Canon **MUST NOT** be cited as a finished or authoritative system.
-- No derivative documents (whitepapers, products, institutions) may claim compliance.
-- No part of the Canon may be selectively quoted to justify decisions.
+- The Canon **MUST NOT** be treated as stable.
+- Implementations **MAY** reference the Canon, but **MUST** accept breaking change risk.
+- No institution or product may claim certified or final alignment.
+- Canonical meaning **MUST NOT** be inferred beyond what is explicitly defined.
 
-Any such use constitutes **misrepresentation**.
+---
 
-## Intent
+## Change Policy (v0.1)
 
-The purpose of this phase is to:
+- All changes are explicit.
+- Backward compatibility is **not guaranteed**.
+- Canonical meaning may still shift to remove ambiguity or inconsistency.
+- No silent evolution is permitted.
 
-- define invariants
-- establish non-negotiable constraints
-- prevent premature institutionalization
-- protect the Canon from dilution or instrumentalization
+---
 
-Stability will be declared explicitly.
-Silence does **not** imply readiness.
+## Stability Declaration
+
+Stability will be declared explicitly in this file.
+
+Silence does
