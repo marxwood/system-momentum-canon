@@ -3,7 +3,7 @@
 This repository contains the **System Momentum Canon**.
 
 The Canon defines **structural validity** through invariants, constraints, and prohibitions.
-It does not prescribe implementations or operational behavior.
+It does not prescribe implementations, decisions, intelligence, enforcement, or morality.
 
 ---
 
@@ -17,51 +17,35 @@ It does not prescribe implementations or operational behavior.
 
 ## What This Repository Is Not
 
-- A product specification
-- A framework or toolkit
-- A governance manual
-- A strategy or roadmap
-- A consensus document
+- A product specification or framework
+- A governance manual or policy set
+- A decision engine or recommendation system
+- An intelligence or reasoning system
+- A moral or ideological authority
 
 ---
 
-## How to Read the Canon
+## How to Navigate the Canon
 
-The Canon must be read **top-down**:
+All canonical navigation and reading order are defined **exclusively** in:
 
-1. `canon/00-preamble.md`
-2. `canon/01-canonical-hierarchy.md`
-3. `canon/02-scope-and-non-goals.md`
-4. `canon/03-definitions.md`
-5. `canon/04-axioms.md`
-6. `canon/05-constraints.md`
-7. `canon/06-non-negotiables.md`
+- `canon/INDEX.md`
 
-Governance documents apply after canonical structure is understood.
+This README does **not** define canonical order and must not be used for navigation.
 
 ---
 
-## Authority
+## Authority and Change
 
-Canonical authority is defined in:
-
-- `governance/authority.md`
-
-Change control is defined in:
-
-- `governance/change-policy.md`
+- Canonical authority: `governance/authority.md`
+- Change control: `governance/change-policy.md`
 
 ---
 
-## Status
+## Status and Versions
 
-Current canonical status is defined in:
-
-- `STATUS.md`
-
-Version snapshots are recorded in:
-
-- `versions/`
+- Current state: `STATUS.md`
+- Version snapshots: `versions/`
 
 ---
 
