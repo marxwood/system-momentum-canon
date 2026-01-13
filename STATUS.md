@@ -1,78 +1,79 @@
-# Status: Defined / Unstable
+# Canon Status
 
-This repository contains the **System Momentum Canon**.
-
-The Canon’s **core definition for v0.1 is complete**.
-Its structure, hierarchy, terminology, axioms, constraints, and non-negotiables are defined.
-
-The Canon is **defined**, but **not yet stable**.
+This document defines the current **status** of the System Momentum Canon.
 
 ---
 
-## Current State
+## Status: Closed Core
 
-- Version: **v0.1**
-- Definition: **Complete**
-- Stability: **Unstable**
-- Change frequency: **Medium**
-- Authority: **Single-custodian canonical control**
-- Intended audience: **System architects and agents operating under explicit constraint**
+The Core Canon is in **Closed Core** status.
 
----
+This means:
 
-## What Is Complete in v0.1
-
-The following elements are complete and binding for v0.1:
-
-- Canonical hierarchy
-- Scope and non-goals
-- Definitions
-- Axioms
-- Constraints
-- Non-negotiables
-- Authority model
-
-Together, these define the **canonical core**.
+- the core scope is complete
+- no new domains may be added
+- only corrective revisions are permitted
+- stability is prioritized over expansion
 
 ---
 
-## What Is Not Complete
+## Scope of Closure
 
-The following are explicitly **out of scope for v0.1**:
+Closure applies to all canonical documents under `canon/`.
 
-- Stability guarantees
-- Institutional governance beyond authority definition
-- Change cadence or release policy
-- Formal compliance mechanisms
-- Derivative specifications or implementations
+Documents outside `canon/`:
 
-Absence of these elements does **not** weaken canonical validity.
+- may evolve
+- may be added
+- do not affect canonical meaning
 
 ---
 
-## Usage Restrictions
+## Permitted Changes
 
-Until stability is explicitly declared:
+Permitted changes include:
 
-- The Canon **MUST NOT** be treated as stable.
-- Implementations **MAY** reference the Canon, but **MUST** accept breaking change risk.
-- No institution or product may claim certified or final alignment.
-- Canonical meaning **MUST NOT** be inferred beyond what is explicitly defined.
+- correction of errors
+- clarification of ambiguity
+- restoration of original intent
 
----
-
-## Change Policy (v0.1)
-
-- All changes are explicit.
-- Backward compatibility is **not guaranteed**.
-- Canonical meaning may still shift to remove ambiguity or inconsistency.
-- No silent evolution is permitted.
+Such changes must follow formal change policy.
 
 ---
 
-## Stability Declaration
+## Prohibited Changes
 
-Stability will be declared explicitly in this file.
+The following are prohibited:
 
-Silence does **not** imply stability.
-Completion does **not** imply finality.
+- adding new canonical domains
+- expanding canonical authority
+- redefining constraints
+- introducing operational guidance
+
+Such changes invalidate canonical stability.
+
+---
+
+## Relationship to Derivatives
+
+Derivatives may continue to evolve.
+
+They:
+
+- may reference the Canon
+- must not redefine it
+- must not imply equivalence
+
+---
+
+## Effective Date
+
+This status is effective upon commit.
+
+---
+
+## Binding Effect
+
+This document is binding.
+
+Any claim inconsistent with this status is invalid.
