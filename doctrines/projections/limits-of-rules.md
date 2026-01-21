@@ -127,7 +127,7 @@ Doctrine:
   where rules fall silent
 
 Doctrine does not override rules.
-It prepares people
+It prepares people and agents
 to act responsibly within them.
 
 ---
