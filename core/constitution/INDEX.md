@@ -1,3 +1,8 @@
+# Constitution — Index
+
+- Preamble: ./00-preamble.md
+- Canonical hierarchy (moved): ../01-HIERARCHY.md
+
 # Canonical Index
 
 This document provides a **structural index** of the System Momentum Canon.
