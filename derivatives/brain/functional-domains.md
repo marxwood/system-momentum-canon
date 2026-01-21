@@ -7,55 +7,43 @@ as a canonical derivative of the System Momentum Canon.
 
 ## 1. Perceptual Domain
 
-- Purpose
-- Inputs / Outputs
-- Boundary conditions
-- Non-responsibilities
+Responsible for intake of signals and observations.
+Does not produce knowledge or memory.
 
 ---
 
 ## 2. Cognitive / Reasoning Domain
 
-- Purpose
-- Ephemeral nature
-- Boundary toward Knowledge
-- Non-responsibilities
+Responsible for ephemeral reasoning and structuring.
+Produces no persistence or authority.
 
 ---
 
 ## 3. Knowledge / Semantic Authority Domain (KSA)
 
-- Purpose
-- Authority over meaning
-- Ontology vs living semantics
-- Prohibited contents
+Responsible for semantic meaning and definitional authority.
+Does not store events or decisions.
 
 ---
 
 ## 4. Institutional / Epistemic Memory Domain (IEM)
 
-- Purpose
-- Canonical persistence
-- Claims, decisions, validity
-- Time, audit, responsibility
+Responsible for canonical persistence of claims, decisions, and validity.
+All responsibility and audit originate here.
 
 ---
 
 ## 5. Reflective Domain
 
-- Purpose
-- Self-observation and critique
-- Heuristic production
-- Dependence on IEM
+Responsible for self-observation, critique, and heuristic formation.
+Depends on IEM, produces no direct action.
 
 ---
 
 ## 6. Action / Governance Domain
 
-- Purpose
-- Authority to change state
-- Decision boundaries
-- Transition from reasoning to act
+Responsible for authorized state changes and commitments.
+Marks the boundary between reasoning and action.
 
 ---
 
