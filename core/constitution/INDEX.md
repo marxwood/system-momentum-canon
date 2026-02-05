@@ -3,26 +3,24 @@
 - Preamble: ./00-preamble.md
 - Canonical hierarchy (moved): ../01-HIERARCHY.md
 
-# Canonical Index
+This document is a **component index** for the Constitution layer.
 
-This document provides a **structural index** of the System Momentum Canon.
-
-It does not introduce new meaning.
-It maps existing canonical structure.
+It does not define repository entry or canonical navigation.
+Canonical entrypoint: `../INDEX.md`
 
 ---
 
-## Canonical Reading Order
+## Constitution Reading Order
 
-The Canon must be read in the following order:
+The Constitution must be read in the following order:
 
-- `canon/00-preamble.md`
-- `canon/01-canonical-hierarchy.md`
-- `canon/02-scope-and-non-goals.md`
-- `canon/03-definitions.md`
-- `canon/04-axioms.md`
-- `canon/05-constraints.md`
-- `canon/06-non-negotiables.md`
+- `./00-preamble.md`
+- `../01-HIERARCHY.md`
+- `./02-scope-and-non-goals.md`
+- `./03-definitions.md`
+- `./04-axioms.md`
+- `./05-constraints.md`
+- `./06-non-negotiables.md`
 
 No downstream document may be read without understanding the above.
 
@@ -32,15 +30,15 @@ No downstream document may be read without understanding the above.
 
 The following documents protect the Canon from misuse and misinterpretation:
 
-- `canon/07-alignment-and-misuse.md`
-- `canon/08-interpretation-boundaries.md`
-- `canon/09-exceptions-and-violations.md`
-- `canon/10-enforcement-and-non-enforcement.md`
-- `canon/11-responsibility-and-attribution.md`
-- `canon/12-canon-is-not-decision.md`
-- `canon/13-canon-is-not-intelligence.md`
-- `canon/14-canon-and-agents.md`
-- `canon/15-canon-and-moral-absolutism.md`
+- `./07-alignment-and-misuse.md`
+- `./08-interpretation-boundaries.md`
+- `./09-exceptions-and-violations.md`
+- `./10-enforcement-and-non-enforcement.md`
+- `./11-responsibility-and-attribution.md`
+- `./12-canon-is-not-decision.md`
+- `./13-canon-is-not-intelligence.md`
+- `./14-canon-and-agents.md`
+- `./15-canon-and-moral-absolutism.md`
 
 These documents do not extend the Canon.
 They constrain its misuse.
