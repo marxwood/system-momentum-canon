@@ -104,9 +104,9 @@ The default derivative family is referred to as **Brain**.
 
 ---
 
-### 3.2 Brain (Derivation Target)
+### 3.2 Brain (Canonical Runtime Model)
 
-**Brain** is a **canonical derivation target**, not a runtime.
+**Brain** is a **canonical runtime model** (conceptual), not a technical runtime.
 
 It represents:
 
@@ -118,7 +118,7 @@ Brain **is not**:
 
 - an implementation
 - an agent
-- a runtime
+- a technical runtime
 - a decision-maker
 
 All Brain realizations remain subordinate to:

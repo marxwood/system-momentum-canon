@@ -1,7 +1,7 @@
 # Brain
 
 This document defines **Brain** as the **unique canonical derivative**
-and the **canonical runtime and model**
+and the **canonical runtime model** (conceptual)
 through which the System Momentum Canon is enacted.
 
 Brain is a **canonical construct**, not a technical system.
@@ -64,11 +64,11 @@ or **how it is practically used**.
 
 ---
 
-## 4. Brain as Canonical Runtime
+## 4. Brain as Canonical Runtime Model (Conceptual)
 
-Brain is the **canonical runtime** of the Canon.
+Brain is the **canonical runtime model** of the Canon.
 
-Canonical runtime means:
+Canonical runtime model means:
 
 - the obligatory epistemic execution of canonical rules
 - the ordered phases through which claims, meaning, and validity are processed
