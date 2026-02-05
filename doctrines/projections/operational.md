@@ -21,33 +21,12 @@ not instruments of governance.
 
 ---
 
-## Operational State Signals (OSS)
-
-OSS are signals indicating:
-
-- activity
-- readiness
-- blockage
-- anomaly
-
-OSS are:
-
-- transient
-- indicative
-- non-binding
-
-They are not promises.
-They are not decisions.
-
----
-
 ## What Operational Projections May Contain
 
 - live dashboards
 - task states
 - queues
 - alerts
-- OSS indicators
 
 They may change rapidly
 without altering canonical state.
@@ -62,7 +41,7 @@ without altering canonical state.
 - bypass governance
 - rewrite memory
 
-If operators act directly on OSS
+If operators act directly on operational signals
 without governance,
 authority has leaked.
 

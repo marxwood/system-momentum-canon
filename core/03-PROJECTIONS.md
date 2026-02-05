@@ -48,27 +48,12 @@ The Canon recognizes the following **projection classes**:
   External-facing representations (e.g. articles, feeds, public views).
 
 - **Operational Projections**  
-  Coordination-oriented representations (e.g. calendars, dashboards, OSS views).
+  Coordination-oriented representations (e.g. calendars, dashboards).
 
 - **Analytical Projections**  
   Observational and evaluative representations (e.g. metrics, summaries, analysis).
 
 These classes define **intent**, not implementation.
-
----
-
-## OSS Constraint
-
-Operational State Signals (OSS) are **operational indicators** that may appear
-only within **Operational Projections**.
-
-OSS must not be:
-
-- persisted as institutional memory
-- treated as commitments
-- escalated into decisions without explicit governance
-
-OSS are **signals**, not obligations.
 
 ---
 
