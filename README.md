@@ -39,6 +39,7 @@ This README does **not** define canonical order and must not be used for navigat
 
 - Canonical authority: `governance/authority.md`
 - Change control: `governance/change-policy.md`
+- Contributing: `CONTRIBUTING.md`
 
 ---
 
