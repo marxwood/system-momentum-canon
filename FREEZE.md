@@ -1,19 +1,24 @@
-# Canon Freeze Notice
+# Canon Freeze Notice (Draft)
 
-This document records the **freeze state** of the System Momentum Core Canon.
+This document records the **freeze policy** for the System Momentum Canon.
 
 This document is **non-canonical**.
 It introduces no meaning and confers no authority.
 
 ---
 
-## Freeze Scope
+## Current State (MVPR v0.1)
 
-The following paths are frozen:
+During **Public Draft (MVPR v0.1)**, the Canon is **not frozen**.
 
-- `canon/`
-- `canon/INDEX.md`
+Changes are permitted only within the scope defined in:
+
 - `STATUS.md`
+- `governance/change-policy.md`
+
+---
+
+## What Freeze Means
 
 Freeze means:
 
@@ -22,53 +27,18 @@ Freeze means:
 - no reordering
 - no scope expansion
 
----
-
-## Permitted Actions Under Freeze
-
-Permitted actions are limited to:
-
-- corrective edits (errors, typos)
-- clarifications that restore original intent
-- governance-approved revisions per change policy
-
-All permitted actions must be explicit and documented.
+Only corrective edits are permitted under freeze.
 
 ---
 
-## Prohibited Actions Under Freeze
+## Freeze Scope (When Activated)
 
-The following are prohibited:
+When a release tag is published, the following paths are frozen for that tag:
 
-- new canonical documents
-- scope extensions
-- semantic refactors
-- implicit reinterpretations
-- repository-level backdoors into canonical meaning
+- `core/`
+- `core/INDEX.md`
+- `STATUS.md`
+- `versions/`
 
----
+Immutability rules for released tags are defined in `IMMUTABILITY.md`.
 
-## Immutability Reference
-
-The frozen state corresponds to:
-
-- Release: `v0.1`
-- Tag: `v0.1`
-- Audit: `AUDIT.md`
-
-This freeze establishes a stable reference surface.
-
----
-
-## Enforcement
-
-Freeze enforcement is procedural, not canonical.
-
-Violations do not alter the Canon.
-They invalidate the violating change.
-
----
-
-## Status
-
-Freeze active.

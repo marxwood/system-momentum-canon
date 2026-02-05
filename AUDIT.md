@@ -1,6 +1,6 @@
-# Canonical Core Completion Audit
+# Canonical Core Audit (Draft)
 
-This document records the **completion audit** of the System Momentum Core Canon.
+This document records the **audit state** of the System Momentum Canon.
 
 This document is **non-canonical**.
 It introduces no meaning and confers no authority.
@@ -11,7 +11,7 @@ It introduces no meaning and confers no authority.
 
 Audit applies to:
 
-- all documents under `canon/`
+- all canonical documents under `core/`
 - canonical hierarchy and ordering
 - internal consistency and boundary integrity
 
@@ -25,7 +25,7 @@ Audit does not evaluate:
 
 ## Audit Criteria
 
-The Core Canon was evaluated against the following criteria:
+Audit evaluates the Core Canon against the following criteria:
 
 1. **Ontological completeness**
 
@@ -50,24 +50,21 @@ The Core Canon was evaluated against the following criteria:
 
 5. **Hierarchical integrity**
 
-   - No contradictions detected
-   - Conflict resolution defined structurally
-   - No interpretive balancing permitted
+   - no internal contradictions
+   - structural conflict resolution
+   - no interpretive balancing
 
 6. **Closure and stability**
-   - Core Canon explicitly closed
-   - Change mechanisms externalized
-   - No incremental expansion allowed
+   - explicit closure claims (if any)
+   - externalized change mechanisms
+   - no incremental expansion via backdoors
 
 ---
 
 ## Findings
 
-- No internal contradictions detected
-- No scope leakage detected
-- No governance or repo-level rules embedded in Canon
-- Canonical hierarchy is intact
-- Canonical boundaries are explicit and enforceable
+No audit findings are asserted during MVPR v0.1 public draft.
+This file exists to define audit scope and criteria, not to certify completion.
 
 ---
 
@@ -77,22 +74,9 @@ None identified.
 
 ---
 
-## Conclusion
-
-The System Momentum Core Canon satisfies all audit criteria for:
-
-- structural integrity
-- misuse resistance
-- epistemic restraint
-- long-term stability
-
-The Core Canon is **complete and closed** as of this audit.
-
----
-
 ## Status
 
-Audit complete.
+Audit pending.
 
 This document may be updated to reflect future audits.
 Such updates do not affect canonical meaning.
