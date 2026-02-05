@@ -1,13 +1,13 @@
 # Contributing
 
-This repository is in **Public Draft (MVPR v0.1)**.
+This repository is in **Public Draft (v0.2)**.
 Contributions are welcome, but scope is intentionally constrained.
 
 ## Canonical Entry
 
 Canonical navigation is defined exclusively in `core/INDEX.md`.
 
-## Allowed Changes (MVPR v0.1)
+## Allowed Changes (v0.2 Draft)
 
 - fix broken links and paths
 - improve navigation and indexing without changing meaning
@@ -37,4 +37,3 @@ See `governance/content-rules.md` for binding stratification rules.
 - one intent per commit (see `governance/change-policy.md`)
 - no history rewriting
 - keep diffs minimal and local
-

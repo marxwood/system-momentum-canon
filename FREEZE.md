@@ -7,9 +7,9 @@ It introduces no meaning and confers no authority.
 
 ---
 
-## Current State (MVPR v0.1)
+## Current State (v0.2 Draft)
 
-During **Public Draft (MVPR v0.1)**, the Canon is **not frozen**.
+During **Public Draft (v0.2)**, the Canon is **not frozen**.
 
 Changes are permitted only within the scope defined in:
 
@@ -41,4 +41,3 @@ When a release tag is published, the following paths are frozen for that tag:
 - `versions/`
 
 Immutability rules for released tags are defined in `IMMUTABILITY.md`.
-

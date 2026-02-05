@@ -63,7 +63,7 @@ Audit evaluates the Core Canon against the following criteria:
 
 ## Findings
 
-No audit findings are asserted during MVPR v0.1 public draft.
+No audit findings are asserted during public draft.
 This file exists to define audit scope and criteria, not to certify completion.
 
 ---

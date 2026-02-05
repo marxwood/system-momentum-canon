@@ -4,7 +4,7 @@ This document defines the current **status** of the System Momentum Canon.
 
 ---
 
-## Status: Public Draft (MVPR0.1)
+## Status: Public Draft (v0.2)
 
 The Canon is in **Public Draft** status.
 
@@ -14,6 +14,8 @@ This means:
 - scope is limited to **structure, links, navigation, and clarity**
 - **no new concepts** may be introduced
 - **no implementation guidance** may be introduced
+
+This branch represents a **breaking revision** relative to `master` (v0.1).
 
 ---
 

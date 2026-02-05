@@ -1,6 +1,6 @@
-# MVPR v0.1 — Public Draft
+# Release v0.2 — Public Draft
 
-This release marker records **MVPR v0.1** of the System Momentum Canon as a **public draft**.
+This release marker records **v0.2** of the System Momentum Canon as a **public draft**.
 
 This is a **formal release record**.
 It introduces no canonical meaning.
@@ -35,6 +35,7 @@ It introduces no canonical meaning.
 ## Notes
 
 - Changes are limited to structure, navigation, and clarity
+- This release is a breaking change relative to `master` (v0.1)
 - Derivative artifacts may evolve independently
 - This release establishes a stable reference point
 
