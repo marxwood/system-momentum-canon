@@ -117,4 +117,4 @@ This document is binding for:
 - services
 - public statements
 
-It has no authority over `canon/`.
+It has no authority over `core/`.

@@ -74,7 +74,7 @@ Governance content must remain isolated in:
 
 It must not:
 
-- appear inside `canon/`
+- appear inside `core/`
 - be referenced as canonical
 - be included in canonical indexing
 
@@ -110,4 +110,4 @@ No additional governance documents may introduce authority beyond these boundari
 
 This document is binding for governance scope and practice.
 
-It has no authority over `canon/`.
+It has no authority over `core/`.

@@ -91,4 +91,4 @@ This document is binding for:
 - services
 - public communications
 
-It has no authority over `canon/`.
+It has no authority over `core/`.

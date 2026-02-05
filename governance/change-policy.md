@@ -11,7 +11,7 @@ It changes only through explicit, constrained action.
 
 This policy governs changes to:
 
-- `canon/`
+- `core/`
 - `governance/`
 - `STATUS.md`
 - `versions/`
@@ -89,7 +89,7 @@ Versioning is declared in `STATUS.md` and recorded in `versions/`.
    History is not rewritten. Corrections are new commits.
 
 3. **Commit messages must be declarative**  
-   Example: `canon: tighten definition of validity`  
+   Example: `core: tighten definition of validity`  
    Not: `fix stuff` or `updates`.
 
 4. **Status updates are mandatory when meaning changes**  
@@ -101,8 +101,8 @@ Versioning is declared in `STATUS.md` and recorded in `versions/`.
 
 A change is acceptable only if:
 
-- it does not contradict `canon/01-canonical-hierarchy.md`
-- it does not violate scope boundaries in `canon/02-scope-and-non-goals.md`
+- it does not contradict `core/01-HIERARCHY.md`
+- it does not violate scope boundaries in `core/constitution/02-scope-and-non-goals.md`
 - it preserves or strengthens constraints and non-negotiables
 - it reduces ambiguity without expanding interpretation space
 
