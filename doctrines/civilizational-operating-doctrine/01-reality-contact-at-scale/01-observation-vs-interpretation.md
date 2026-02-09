@@ -1,4 +1,6 @@
-# Observation vs Interpretation
+
+
+Observation vs Interpretation
 
 At civilizational scale, most conflict is not over facts.
 
