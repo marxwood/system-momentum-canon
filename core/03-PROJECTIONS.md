@@ -1,31 +1,52 @@
 # Projections
 
-This document defines **Projections** as a canonical, non-normative construct
+This document defines **Projections** as a **canonical derivative construct**
 of the System Momentum Canon.
 
-A Projection is a **derived representation of Brain state** intended for
-perception, coordination, or analysis.
+A Projection is a **derived representation** of institutional state,
+intended for perception, coordination, or analysis.
+
+Projections exist to allow systems and agents
+to work with the Canon **without confusing readability with authority**.
 
 Projections have **no epistemic authority**.
 
 ---
 
-## Canonical Status
+## 1. Canonical Status
 
 Projections are:
 
-- derived from Brain state
+- canonical
+- derived
 - non-authoritative
 - non-binding
-- non-persistent
 - revocable
 - regenerable
 
-A Projection is **never** a source of truth, commitment, or obligation.
+A Projection is never a source of truth, commitment, or obligation.
 
 ---
 
-## Prohibition Rules
+## 2. What Projections Are For
+
+Projections exist to support:
+
+- perception of complex institutional state
+- coordination across people, agents, and systems
+- analysis and navigation of memory
+- summarization and presentation
+- surfacing candidate interpretations and options
+
+Projections may be highly structured.
+They may be interactive.
+They may be personalized.
+
+None of these properties grant authority.
+
+---
+
+## 3. Prohibition Rules
 
 Projections must not:
 
@@ -34,32 +55,104 @@ Projections must not:
 - assert validity
 - trigger institutional commitment
 - act as decision authority
+- launder cognition into truth
 
-Any system treating a Projection as authoritative
+Any system treating Projections as binding
 is non-canonical by definition.
 
 ---
 
-## Canonical Projection Types
+## 4. Relationship to Mindframe
 
-The Canon recognizes the following **projection classes**:
+Within Mindframe, Projections belong to the **Interpretive Domain**.
 
-- **Public Projections**  
-  External-facing representations (e.g. articles, feeds, public views).
+The Interpretive Domain may:
 
-- **Operational Projections**  
-  Coordination-oriented representations (e.g. calendars, dashboards).
+- generate projections from canonical objects
+- transform and format them
+- produce multiple projections from the same state
 
-- **Analytical Projections**  
-  Observational and evaluative representations (e.g. metrics, summaries, analysis).
+But it may not:
 
-These classes define **intent**, not implementation.
+- redefine meaning (KSA domain)
+- write commitments (IEM domain)
+- authorize binding (Binding/Governance domain)
 
 ---
 
-## Closure Rule
+## 5. Relationship to Validity and Regimes
+
+Projections may display:
+
+- validity status
+- regime outcomes
+- confidence markers
+- provenance summaries
+
+But they may not create or alter these.
+
+Validity and regime outcomes exist only as properties
+of canonical objects and commitments.
+
+---
+
+## 6. Canonical Projection Classes
+
+The Canon recognizes the following **projection classes**.
+
+These classes define **canonical projection purpose**, not canonical implementation.
+They exist to preserve a stable cross-system vocabulary.
+
+The examples below are **non-normative** and illustrative only.
+
+- **Public Projections**  
+  External-facing representations intended for publication or public perception.  
+  _Non-normative examples:_ public summaries, external briefs, published narratives.
+
+- **Operational Projections**  
+  Coordination-oriented representations intended for shared operational alignment.  
+  _Non-normative examples:_ schedules, task overviews, operational status views.
+
+- **Analytical Projections**  
+  Observational and evaluative representations intended for analysis and insight.  
+  _Non-normative examples:_ metrics, comparative summaries, trend analyses.
+
+---
+
+## 7. Closure Rule
 
 Projection classes are **closed**.
 
 No new projection class may be introduced
 without an explicit Canon amendment.
+
+Domain-specific distinctions must be expressed
+as metadata within an existing projection class,
+never as additional canonical classes.
+
+---
+
+## 8. Stability Clause
+
+Projections are stable in meaning but not in form.
+
+A projection may change:
+
+- layout
+- formatting
+- structure
+- summarization strategy
+
+without requiring Canon amendment,
+as long as it preserves the non-authority rules.
+
+---
+
+## 9. Non-Equivalence Rules
+
+- Projection ≠ memory
+- Projection ≠ truth
+- Projection ≠ commitment
+- Projection ≠ authority
+- Projection ≠ policy
+- Projection ≠ surface
