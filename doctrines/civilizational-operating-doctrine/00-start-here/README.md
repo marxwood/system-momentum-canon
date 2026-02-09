@@ -7,13 +7,12 @@ It is written for environments where:
 - power concentrates
 - legitimacy fragments
 - shared reality collapses
-- incentives reward distortion
 - institutions are captured
-- fear becomes a governance tool
+- incentives reward distortion
 - coercion becomes normal
 - correction becomes dangerous
 
-This branch does not assume a specific ideology.
+It does not assume a specific ideology.
 It does not assume a specific regime type.
 It does not assume a specific era.
 
@@ -35,7 +34,7 @@ It defines how large-scale coordination survives.
 
 It is procedural.
 It is survivable.
-It is written for environments where naive moral language is exploited.
+It is written for conditions where naive moral language is exploited.
 
 ---
 
@@ -47,18 +46,17 @@ The branch is built around a single meta-principle:
 
 This includes:
 
-- nation-states
+- states
 - regimes
+- constitutions
+- institutions
 - ideologies
 - religions
-- ethnic identities
+- identities
 - historical narratives
 - legitimacy claims
-- institutions
-- constitutions
-- “the will of the people”
-- media systems
 - moral vocabularies
+- media systems
 
 These are not truth.
 
@@ -68,18 +66,13 @@ They can stabilize order.
 They can also weaponize coercion.
 They can collapse correction capacity.
 
-This branch exists to keep the ability to correct alive.
+This doctrine exists to preserve the ability to correct.
 
 ---
 
-## Order, not “peace”
+## Order, not peace
 
 This branch treats order as a coordination outcome.
-
-It distinguishes between:
-
-- pacification (stability through fear and closure)
-- correction-capable order (stability that preserves correction)
 
 Its target is an order that:
 
@@ -87,26 +80,58 @@ Its target is an order that:
 - prevents capture
 - minimizes coercion
 
+It distinguishes between:
+
+- pacification (stability through fear and closure)
+- correction-capable order (stability that preserves correction)
+
 ---
 
-## Why this matters at civilizational scale
+## How the branch is structured
 
-At civilizational scale, interface-worship is fatal.
+This branch is organized as a progression.
 
-It appears as:
+The order matters.
 
-- legitimacy treated as truth
-- ideology treated as reality
-- identity treated as destiny
-- humiliation treated as governance
-- enemies treated as necessity
-- fear treated as rational policy
-- violence treated as cleansing
-- corruption treated as stability
+### 01 — Reality contact at scale
 
-This branch exists because these patterns are not exceptions.
+How shared reality is formed, maintained, and destroyed.
 
-They are recurring equilibria.
+### 02 — Legitimacy and action
+
+How action becomes permitted, bounded, accountable, and repairable.
+
+### 03 — Conflict and violence
+
+How conflict escalates, how violence thresholds are crossed, and how de-escalation works.
+
+### 04 — Power and institutions
+
+How institutions function as machines, how capture happens, and how constraints survive.
+
+### 05 — Economics and dependence
+
+How dependence becomes power, and how stability is manufactured through incentives.
+
+### 06 — Media and narrative control
+
+How narratives become control surfaces and how shared reality is fragmented.
+
+### 07 — Identity and stabilizers
+
+How identity, sacred values, dignity, and repair stabilize order — or weaponize coercion.
+
+### 08 — Survival under coercion
+
+How correction survives under surveillance, blackmail, and repression.
+
+### 09 — Collective coordination
+
+How coordination is rebuilt after coercion without collapse, revenge, or purge.
+
+### 10 — Scale translation
+
+How mechanisms translate across cultures and scales without ideology drift.
 
 ---
 
@@ -120,17 +145,15 @@ This branch optimizes for:
 - institutions that resist capture
 - accountability without purge
 - survival under coercion
-- order without humiliation as a governance tool
 - repair without collapse
 
 It explicitly does not optimize for:
 
 - ideological victory
 - moral purity
-- revolutionary fantasy
-- total coherence of narrative
 - revenge
 - humiliation of opponents
+- total coherence of narrative
 
 ---
 
@@ -148,38 +171,15 @@ If a concept cannot be expressed as constraints, failure modes, or operational c
 
 ---
 
-## How to use the branch
-
-Read it as a threat-aware coordination doctrine.
-
-The order matters:
-
-1. perception and epistemics
-2. intent and action legitimacy
-3. conflict and violence thresholds
-4. power and institutions
-5. economics and dependence
-6. media and narrative warfare
-7. stabilizers and meaning systems
-8. collective coordination mechanisms
-9. survival under coercion
-10. scale translation
-
-The goal is not to “win”.
-
-The goal is to preserve correction capacity while minimizing coercion.
-
----
-
 ## Failure modes this branch defends against
 
 This branch exists because civilizational failure modes repeat:
 
 - epistemic collapse into tribal reality
 - legitimacy collapse into brute force
-- capture of institutions
+- institutional capture
 - propaganda-driven coordination
-- humiliation as a governance tool
+- coercion as a governance default
 - revenge cycles and purges
 - corruption as stabilizer
 - fear compression and silence equilibria
@@ -197,4 +197,6 @@ If you only implement one thing from this branch, implement this:
 - preserve bounded action (constraints on coercion)
 - preserve repair (accountability without purge)
 
-Everything else exists to keep those four alive under hostile pressure.
+Everything else exists to keep those four alive under pressure.
+
+---
