@@ -100,13 +100,13 @@ Derivatives **must not**:
 
 A derivative family is a canonical grouping of capabilities.
 
-The default derivative family is referred to as **Brain**.
+The default derivative family is referred to as **Mindframe**.
 
 ---
 
-### 3.2 Brain (Canonical Runtime Model)
+### 3.2 Mindframe (Canonical Runtime Model)
 
-**Brain** is a **canonical runtime model** (conceptual), not a technical runtime.
+**Mindframe** is a **canonical runtime model** (conceptual), not a technical runtime.
 
 It represents:
 
@@ -114,14 +114,14 @@ It represents:
 - a reference structure for derived systems
 - a convergence point for canonical constraints
 
-Brain **is not**:
+Mindframe **is not**:
 
 - an implementation
 - an agent
 - a technical runtime
 - a decision-maker
 
-All Brain realizations remain subordinate to:
+All Mindframe realizations remain subordinate to:
 
 - Core Constitution
 - Core Authority
@@ -196,7 +196,7 @@ Canon
 │ ├─ Constitution
 │ └─ Authority
 ├─ Derivatives
-│ └─ Brain (derivation target)
+│ └─ Mindframe (derivation target)
 ├─ Doctrines
 └─ Implementations
 └─ Projections
