@@ -6,7 +6,7 @@ This document is **governance**, not Canon.
 It does not define canonical meaning.
 It defines how canonical meaning is **referenced, protected, and applied**.
 
-Canonical meaning is defined only by documents listed in `canon/INDEX.md`.
+Canonical meaning is defined only by documents listed in `core/INDEX.md`.
 
 ---
 
@@ -16,7 +16,7 @@ Authority is layered. Each layer may constrain layers below it, but must not be 
 
 | Level | Artifact Class                                               | Purpose                                                                                                                       | Can Introduce New Concepts? |         Can Change Canonical Meaning? |
 | ----: | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------: | ------------------------------------: |
-|     0 | **Canon** (`/canon`)                                         | Ontological and epistemic invariants. Defines what must remain true across time, orgs, and implementations.                   |             Yes (only here) | Yes (only via Canon revision process) |
+|     0 | **Canon** (`/core`)                                          | Ontological and epistemic invariants. Defines what must remain true across time, orgs, and implementations.                   |             Yes (only here) | Yes (only via Canon revision process) |
 |     1 | **Governance** (`/governance`, `/versions`, root policies)   | Protects Canon integrity: change control, immutability, release discipline, disclosure boundaries, and audit.                 |                          No |                                    No |
 |     2 | **Derivatives** (`/derivatives`)                             | Allowed interpretations and realizations of Canon for specific contexts. Provide “theory of realization”, not execution.      | No (must derive from Canon) |                                    No |
 |     3 | **System-level ADRs / PRDs** (`/adrs`, `/prds` when present) | Cross-derivative decision and requirement discipline. Normative obligations that apply broadly without binding to technology. |                          No |                                    No |
@@ -106,7 +106,7 @@ Forking this repository does not move canonical authority.
 
 - Forks are **non-canonical by definition**.
 - Forks may be useful, even superior for local purposes.
-- Canonical meaning remains with the canonical repository and its `canon/INDEX.md`.
+- Canonical meaning remains with the canonical repository and its `core/INDEX.md`.
 
 Disagreement does not invalidate authority.
 Silence does not weaken authority.

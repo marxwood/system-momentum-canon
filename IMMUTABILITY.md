@@ -28,7 +28,7 @@ Immutability applies to:
 
 - release tags (e.g. `v0.1`)
 - commit history referenced by those tags
-- canonical documents under `canon/` at the time of release
+- canonical documents under `core/` at the time of release
 - associated status and audit records
 
 ---

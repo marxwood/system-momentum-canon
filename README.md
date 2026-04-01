@@ -29,7 +29,7 @@ It does not prescribe implementations, decisions, intelligence, enforcement, or 
 
 All canonical navigation and reading order are defined **exclusively** in:
 
-- `canon/INDEX.md`
+- `core/INDEX.md`
 
 This README does **not** define canonical order and must not be used for navigation.
 
@@ -39,6 +39,7 @@ This README does **not** define canonical order and must not be used for navigat
 
 - Canonical authority: `governance/authority.md`
 - Change control: `governance/change-policy.md`
+- Contributing: `CONTRIBUTING.md`
 
 ---
 

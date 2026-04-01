@@ -4,24 +4,26 @@ This document defines the current **status** of the System Momentum Canon.
 
 ---
 
-## Status: Closed Core
+## Status: Public Draft (v0.2)
 
-The Core Canon is in **Closed Core** status.
+The Canon is in **Public Draft** status.
 
 This means:
 
-- the core scope is complete
-- no new domains may be added
-- only corrective revisions are permitted
-- stability is prioritized over expansion
+- public review and corrective PRs are permitted
+- scope is limited to **structure, links, navigation, and clarity**
+- **no new concepts** may be introduced
+- **no implementation guidance** may be introduced
+
+This branch represents a **breaking revision** relative to `master` (v0.1).
 
 ---
 
-## Scope of Closure
+## Scope of Draft
 
-Closure applies to all canonical documents under `canon/`.
+Draft scope applies to canonical documents under `core/`.
 
-Documents outside `canon/`:
+Documents outside `core/`:
 
 - may evolve
 - may be added
@@ -36,6 +38,8 @@ Permitted changes include:
 - correction of errors
 - clarification of ambiguity
 - restoration of original intent
+- navigation and reference fixes
+- path corrections
 
 Such changes must follow formal change policy.
 
@@ -49,6 +53,7 @@ The following are prohibited:
 - expanding canonical authority
 - redefining constraints
 - introducing operational guidance
+- introducing new concepts
 
 Such changes invalidate canonical stability.
 

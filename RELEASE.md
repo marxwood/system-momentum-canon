@@ -1,6 +1,6 @@
-# Release v0.1 — Core Canon Closed
+# Release v0.2 — Public Draft
 
-This release marks **v0.1** of the System Momentum **Core Canon**.
+This release marker records **v0.2** of the System Momentum Canon as a **public draft**.
 
 This is a **formal release record**.
 It introduces no canonical meaning.
@@ -9,18 +9,18 @@ It introduces no canonical meaning.
 
 ## Scope
 
-- Core Canon (`canon/`) is **complete and closed**
-- Governance layer is defined and closed
+- Canon (`core/`) is **public draft**
+- Governance layer is defined
 - Repository entry and publication rules are defined
-- No derivative artifacts are included in this release
+- Derivative artifacts are included as non-authoritative layers
 
 ---
 
 ## Status
 
-- Canon status: **Closed Core**
-- Governance status: **Closed**
-- Audit status: **Completed**
+- Canon status: **Public Draft**
+- Governance status: **Defined**
+- Audit status: **In progress**
 
 ---
 
@@ -34,7 +34,8 @@ It introduces no canonical meaning.
 
 ## Notes
 
-- Future changes to the Core Canon require formal revision per governance policy
+- Changes are limited to structure, navigation, and clarity
+- This release is a breaking change relative to `master` (v0.1)
 - Derivative artifacts may evolve independently
 - This release establishes a stable reference point
 
@@ -42,6 +43,6 @@ It introduces no canonical meaning.
 
 ## Reference
 
-- Canon entry point: `canon/INDEX.md`
+- Canon entry point: `core/INDEX.md`
 - Status: `STATUS.md`
 - Audit record: `AUDIT.md`

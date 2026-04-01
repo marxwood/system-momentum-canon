@@ -6,7 +6,7 @@ This document is **not canonical**.
 It introduces no rules, constraints, or authority.
 It exists solely for orientation.
 
-Canonical meaning is defined only by documents listed in `canon/INDEX.md`.
+Canonical meaning is defined only by documents listed in `core/INDEX.md`.
 
 ---
 
@@ -16,8 +16,8 @@ This map is non-canonical, but it must respect the repository’s authority boun
 
 Authority layering (from highest to lowest):
 
-1. **Canon** (`/canon`) — defines canonical meaning and invariants.
-2. **Governance** (`/governance`, `/versions`, root policy docs) — protects Canon integrity and change control.
+1. **Canon** (`/core`) — defines canonical meaning and invariants.
+2. **Governance** (`/governance`, root policy docs) — protects Canon integrity and change control.
 3. **Derivatives** (`/derivatives`) — allowed interpretations of Canon (theory of realization, not execution).
 4. **ADRs / PRDs** — decision and requirement discipline (system-level and derivative-scoped).
 5. **Implementation repositories** (external) — executable artifacts (code, infra, runtime).
