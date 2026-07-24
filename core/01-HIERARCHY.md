@@ -3,7 +3,7 @@
 This document defines the canonical hierarchy of the System Momentum Canon.
 
 It establishes **what exists**, **at which level**, and **under what authority**, while explicitly separating
-normative structure from execution, implementation, and use.
+normative structure from execution, implementation, State, and representation.
 
 This hierarchy is **non-negotiable**. All derivations, systems, agents, and implementations must conform to it.
 
@@ -167,15 +167,42 @@ An implementation may be aligned — but never authoritative.
 
 ---
 
-## 6. Projections
+## 6. State
 
-**Projections** are operational views derived from system state.
+**State** is the time-indexed, attributable condition of a system.
+
+The canonical State model defines:
+
+- which distinctions system condition must preserve
+- how State remains attributable to canonical objects and acts
+- how transitions preserve provenance and prior referability
+- how State remains distinct from reality, truth, memory, and representation
+
+The canonical meaning of State belongs to the Canon.
+The concrete State of a particular system does not.
+
+Concrete State instances:
+
+- are system-bound
+- change over time
+- may contain uncertainty and contradiction
+- remain constrained by Core, Mindframe, Authority, Intent, and applicable Doctrine
+- carry no authority merely by being stored or represented
+
+State is a condition, not a capability or artifact.
+
+---
+
+## 7. Projections
+
+**Projections** are operational views derived from State.
 
 They:
 
 - render information for agents or humans
 - do not define validity
 - do not alter authority
+- do not create or modify State
 - may be regenerated at any time
 
 Examples include (non-exhaustive):
@@ -186,26 +213,29 @@ Examples include (non-exhaustive):
 - interfaces
 
 Projections are **artifacts**, not capabilities.
+They represent State without becoming State.
 
 ---
 
-## 7. Hierarchy Summary
+## 8. Hierarchy Summary
 
 Canon
 ├─ Core
-│ ├─ Constitution
-│ └─ Authority
+│  ├─ Constitution
+│  └─ Authority
 ├─ Derivatives
-│ └─ Mindframe (derivation target)
-├─ Doctrines
-└─ Implementations
-└─ Projections
+│  └─ Mindframe (derivation target)
+└─ Doctrines
+
+System realizations / Implementations
+├─ State (canonically constrained condition)
+└─ Projections (derived representations of State)
 
 ---
 
-## 8. Non-Equivalence Rule
+## 9. Non-Equivalence Rule
 
-No layer may be collapsed into another.
+No layer or construct may be collapsed into another.
 
 In particular:
 
@@ -214,6 +244,9 @@ In particular:
 - Authority ≠ Intelligence
 - Derivative ≠ Implementation
 - Doctrine ≠ Policy
+- State ≠ Reality
+- State ≠ Memory
+- State ≠ Projection
 - Projection ≠ Capability
 
 Any system violating this hierarchy **ceases to be canonically aligned**.
