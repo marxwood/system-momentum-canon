@@ -15,8 +15,10 @@ but must not define canonical order or meaning.
 2. Constitution: `./constitution/INDEX.md`
 3. Authority: `./authority/INDEX.md`
 4. Mindframe (canonical runtime model): `./02-MINDFRAME.md`
-5. Projections: `./03-PROJECTIONS.md`
-6. Intent: `./04-INTENT.md`
+5. State: `./03-STATE.md`
+6. Projections: `./04-PROJECTIONS.md`
+7. Surfaces: `./05-SURFACES.md`
+8. Intent: `./06-INTENT.md`
 
 ---
 
