@@ -12,7 +12,7 @@ Core is split into two layers:
 
 Core also defines foundational constructs:
 
-- **Brain**: the unique canonical derivative and canonical runtime model (conceptual).
+- **Mindframe**: the unique canonical derivative and canonical runtime model (conceptual).
 - **Projections**: non-authoritative derived representations.
 - **Intent**: the semantic precondition for institutional agency.
 
