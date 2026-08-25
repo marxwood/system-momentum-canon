@@ -31,6 +31,22 @@ There is exactly **one Mindframe**.
 All canonical systems derive from and operate through the same Mindframe.
 Any system not conforming to Mindframe is non-canonical by definition.
 
+### 1.1 Singularity and Non-Instantiation
+
+Mindframe is **singular and non-instantiable**.
+
+It is not created, owned, or instantiated by any system, actor, session,
+organization, or implementation.
+
+Systems and actors may incept their existence within Mindframe.
+They do not create or receive separate Mindframes.
+
+Mindframe is not contained by a system.
+Canonical systems exist and operate within the one Mindframe.
+
+Any model that introduces multiple independent Mindframes
+is non-canonical by definition.
+
 ---
 
 ## 2. Why Mindframe Exists
