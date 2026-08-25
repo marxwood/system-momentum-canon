@@ -114,14 +114,24 @@ Mindframe is **what the system must never confuse**.
 
 Mindframe defines a **closed set of Canonical Epistemic Domains**.
 
-Domains are **non-negotiable separations of epistemic responsibility**.
-They do not define execution order, workflows, or technical behavior.
+Domains are **non-negotiable distinctions of epistemic responsibility**.
+They are not regions, containers, layers, or spatial subdivisions of Mindframe.
+They introduce no content into Mindframe and do not partition its space.
 
+Mindframe may be empty of inhabitants, representations, worlds, systems,
+interfaces, and projections while these distinctions still hold.
+Emptiness does not imply absence of canonical structure.
+
+A domain classifies the epistemic responsibility of an occurrence within Mindframe.
 Each domain establishes:
 
-- what epistemic activity may occur within it,
+- what epistemic activity may occur under that responsibility,
 - what it is explicitly prohibited from doing,
 - and where binding authority begins and ends.
+
+Domains do not define execution order, workflows, technical behavior, or placement.
+The closed set is a closed set of canonical distinctions,
+not a partition of Mindframe.
 
 ### 5.1 Perceptual Domain
 
