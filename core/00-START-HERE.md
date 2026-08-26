@@ -13,7 +13,9 @@ Core is split into two layers:
 Core also defines foundational constructs:
 
 - **Mindframe**: the unique canonical derivative and canonical runtime model (conceptual).
-- **Projections**: non-authoritative derived representations.
+- **State**: the time-indexed, attributable condition of a system.
+- **Projections**: non-authoritative representations derived from State.
+- **Surfaces**: authority-neutral boundaries of capability exposure.
 - **Intent**: the semantic precondition for institutional agency.
 
 ## Reading order

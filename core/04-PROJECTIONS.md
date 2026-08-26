@@ -3,7 +3,7 @@
 This document defines **Projections** as a **canonical derivative construct**
 of the System Momentum Canon.
 
-A Projection is a **derived representation** of institutional state,
+A Projection is a **derived representation** of system State,
 intended for perception, coordination, or analysis.
 
 Projections exist to allow systems and agents
@@ -24,7 +24,7 @@ Projections are:
 - revocable
 - regenerable
 
-A Projection is never a source of truth, commitment, or obligation.
+A Projection is never a source of truth, commitment, obligation, or State.
 
 ---
 
@@ -32,7 +32,7 @@ A Projection is never a source of truth, commitment, or obligation.
 
 Projections exist to support:
 
-- perception of complex institutional state
+- perception of complex system State
 - coordination across people, agents, and systems
 - analysis and navigation of memory
 - summarization and presentation
@@ -51,6 +51,7 @@ None of these properties grant authority.
 Projections must not:
 
 - create or modify canonical memory
+- create or modify State
 - introduce semantic meaning
 - assert validity
 - trigger institutional commitment
@@ -58,6 +59,7 @@ Projections must not:
 - launder cognition into truth
 
 Any system treating Projections as binding
+or as authoritative State
 is non-canonical by definition.
 
 ---
@@ -68,9 +70,9 @@ Within Mindframe, Projections belong to the **Interpretive Domain**.
 
 The Interpretive Domain may:
 
-- generate projections from canonical objects
+- generate projections from available State
 - transform and format them
-- produce multiple projections from the same state
+- produce multiple projections from the same State
 
 But it may not:
 
@@ -80,7 +82,36 @@ But it may not:
 
 ---
 
-## 5. Relationship to Validity and Regimes
+## 5. Relationship to State
+
+Every Projection is derived from State
+or from a declared subset or temporal view of State.
+
+A Projection must preserve sufficient source context
+to remain attributable to the State from which it was derived.
+
+Multiple Projections may represent the same State differently.
+Variation in presentation does not imply variation in underlying State.
+
+A Projection does not become part of State merely because it is:
+
+- displayed
+- published
+- repeated
+- interacted with
+- accepted by an audience
+- consumed by an agent
+
+Interaction with a Projection may produce a request,
+candidate act, or new observation.
+Only a separately admissible act may produce a State transition.
+
+State must not be reconstructed solely from a Projection
+when canonical memory and provenance are available.
+
+---
+
+## 6. Relationship to Validity and Regimes
 
 Projections may display:
 
@@ -88,15 +119,16 @@ Projections may display:
 - regime outcomes
 - confidence markers
 - provenance summaries
+- temporal State context
 
 But they may not create or alter these.
 
 Validity and regime outcomes exist only as properties
-of canonical objects and commitments.
+of canonical objects and commitments within State.
 
 ---
 
-## 6. Canonical Projection Classes
+## 7. Canonical Projection Classes
 
 The Canon recognizes the following **projection classes**.
 
@@ -119,7 +151,7 @@ The examples below are **non-normative** and illustrative only.
 
 ---
 
-## 7. Closure Rule
+## 8. Closure Rule
 
 Projection classes are **closed**.
 
@@ -132,7 +164,7 @@ never as additional canonical classes.
 
 ---
 
-## 8. Stability Clause
+## 9. Stability Clause
 
 Projections are stable in meaning but not in form.
 
@@ -148,8 +180,9 @@ as long as it preserves the non-authority rules.
 
 ---
 
-## 9. Non-Equivalence Rules
+## 10. Non-Equivalence Rules
 
+- Projection ≠ State
 - Projection ≠ memory
 - Projection ≠ truth
 - Projection ≠ commitment
