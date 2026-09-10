@@ -53,7 +53,6 @@ This section defines:
 - scaling evaluation and feedback loops
 - avoiding bureaucracy bloat
 - operational doctrine for day-to-day living
-- smallness as an architectural constraint: scale at the edges without proportional growth of the center
 
 ---
 
@@ -65,7 +64,6 @@ A correction-capable organization must preserve:
 2. decision continuity across time
 3. distributed ownership (no single points)
 4. evaluation and repair that scale
-5. a deliberately small center, with growth pushed into protocols, autonomous nodes, and replaceable capabilities
 
 If coordination cannot scale, hierarchy becomes the substitute.
 
